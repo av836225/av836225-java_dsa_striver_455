@@ -7,8 +7,8 @@ import java.util.List;
 public class fourSum {
     public static void main(String[] args) {
        
-        int[] nums = {1000000000,1000000000,1000000000,1000000000};
-        int target = -294967296;
+        int[] nums = {1, 0, -1, 0, -2, 2};
+        int target = 0;
 
         List<List<Integer>> res = fourSum(nums, target);
         System.out.println(res);
@@ -21,7 +21,7 @@ public class fourSum {
         int n = nums.length;
 
         for(int i = 0; i< n - 3; i++){
-            if(i > 0 && nums[i] == nums[i -1]) continue;
+            if(i > 0 && nums[i] == nums[i - 1]) continue;
 
             for(int j = i + 1; j < n -2; j++){
                 if(j > i + 1 && nums[j] == nums[j -1]) continue;

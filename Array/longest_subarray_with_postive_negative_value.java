@@ -15,7 +15,9 @@ public class longest_subarray_with_postive_negative_value {
         int maxLength = 0;
         int arraySum = 0;
 
+
         Map<Integer,Integer> map = new HashMap<>();
+
 
 
         for(int i = 0; i < nums.length; i++){
@@ -36,6 +38,9 @@ public class longest_subarray_with_postive_negative_value {
             }
             
         }
+
+      
+
 
 
         return maxLength;

@@ -1,6 +1,6 @@
 public class plus_one {
     public static void main(String[] args) {
-        int[] digits = {9,9,9};
+        int[] digits = {1,9,9};
         int[] result = plusOne(digits);
         for(int number: result){
             System.out.println("number"+number);

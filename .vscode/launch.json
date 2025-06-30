@@ -1,0 +1,651 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "longestUniqueSubstring",
+            "request": "launch",
+            "mainClass": "SlidingWindow.longestUniqueSubstring",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "numberOfSubstringWithAllThreeChar",
+            "request": "launch",
+            "mainClass": "SlidingWindow.numberOfSubstringWithAllThreeChar",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "countNiceSubArray",
+            "request": "launch",
+            "mainClass": "SlidingWindow.countNiceSubArray",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "binarySumWithSum",
+            "request": "launch",
+            "mainClass": "SlidingWindow.binarySumWithSum",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "longestRepeatingCharacterReplacement",
+            "request": "launch",
+            "mainClass": "SlidingWindow.longestRepeatingCharacterReplacement",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "maxConsecutiveOnesKFlip",
+            "request": "launch",
+            "mainClass": "SlidingWindow.maxConsecutiveOnesKFlip",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MaximumProductSubarray",
+            "request": "launch",
+            "mainClass": "Array.MaximumProductSubarray",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "check_array_is_sorted",
+            "request": "launch",
+            "mainClass": "Array.check_array_is_sorted",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "consecutive_ones",
+            "request": "launch",
+            "mainClass": "Array.consecutive_ones",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "count_inversion",
+            "request": "launch",
+            "mainClass": "Array.count_inversion",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "dutchFlag",
+            "request": "launch",
+            "mainClass": "Array.dutchFlag",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "fourSum",
+            "request": "launch",
+            "mainClass": "Array.fourSum",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "frequency_most_frequent",
+            "request": "launch",
+            "mainClass": "Array.frequency_most_frequent",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "intersection_two_array",
+            "request": "launch",
+            "mainClass": "Array.intersection_two_array",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "kadanes_algorithm",
+            "request": "launch",
+            "mainClass": "Array.kadanes_algorithm",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "largest_element",
+            "request": "launch",
+            "mainClass": "Array.largest_element",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "leaders_in_array",
+            "request": "launch",
+            "mainClass": "Array.leaders_in_array",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "linear_search",
+            "request": "launch",
+            "mainClass": "Array.linear_search",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "longest_consecutive_sequence",
+            "request": "launch",
+            "mainClass": "Array.longest_consecutive_sequence",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "longest_subarray",
+            "request": "launch",
+            "mainClass": "Array.longest_subarray",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "longest_subarray_with_postive_negative_value",
+            "request": "launch",
+            "mainClass": "Array.longest_subarray_with_postive_negative_value",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "majorityNBy3",
+            "request": "launch",
+            "mainClass": "Array.majorityNBy3",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "maximum_subarray_with_zero",
+            "request": "launch",
+            "mainClass": "Array.maximum_subarray_with_zero",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "merge_intervals",
+            "request": "launch",
+            "mainClass": "Array.merge_intervals",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "merge_two_sorted_array",
+            "request": "launch",
+            "mainClass": "Array.merge_two_sorted_array",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "missing_number_array",
+            "request": "launch",
+            "mainClass": "Array.missing_number_array",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "more_voting_algo",
+            "request": "launch",
+            "mainClass": "Array.more_voting_algo",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "move_zeros_end",
+            "request": "launch",
+            "mainClass": "Array.move_zeros_end",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "next_permutation",
+            "request": "launch",
+            "mainClass": "Array.next_permutation",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "number_of_subarray_with_xor_k",
+            "request": "launch",
+            "mainClass": "Array.number_of_subarray_with_xor_k",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "pascals_traingle",
+            "request": "launch",
+            "mainClass": "Array.pascals_traingle",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "rearrage_array_by_sign",
+            "request": "launch",
+            "mainClass": "Array.rearrage_array_by_sign",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplicateinArray",
+            "request": "launch",
+            "mainClass": "Array.removeDuplicateinArray",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "remove_dublicate_from_array",
+            "request": "launch",
+            "mainClass": "Array.remove_dublicate_from_array",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "repeating_missing_number",
+            "request": "launch",
+            "mainClass": "Array.repeating_missing_number",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "reverse_pairs",
+            "request": "launch",
+            "mainClass": "Array.reverse_pairs",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "rotate_array_k_times",
+            "request": "launch",
+            "mainClass": "Array.rotate_array_k_times",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "rotate_matrix_by_90",
+            "request": "launch",
+            "mainClass": "Array.rotate_matrix_by_90",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "second_largest",
+            "request": "launch",
+            "mainClass": "Array.second_largest",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "set_matrix_zero",
+            "request": "launch",
+            "mainClass": "Array.set_matrix_zero",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "spiral_matrx",
+            "request": "launch",
+            "mainClass": "Array.spiral_matrx",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "stock_to_buy_sell",
+            "request": "launch",
+            "mainClass": "Array.stock_to_buy_sell",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "sub_array_sum_equal_k",
+            "request": "launch",
+            "mainClass": "Array.sub_array_sum_equal_k",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "three_sum",
+            "request": "launch",
+            "mainClass": "Array.three_sum",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "twoSumSortedArray",
+            "request": "launch",
+            "mainClass": "Array.twoSumSortedArray",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "twoSumUnSortedArray",
+            "request": "launch",
+            "mainClass": "Array.twoSumUnSortedArray",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "union_two_sorted_array",
+            "request": "launch",
+            "mainClass": "Array.union_two_sorted_array",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "countNumberOfOccurence",
+            "request": "launch",
+            "mainClass": "BinarySearch.countNumberOfOccurence",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "firstAndLastOccurence",
+            "request": "launch",
+            "mainClass": "BinarySearch.firstAndLastOccurence",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "floorCeilSortedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.floorCeilSortedArray",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "kokoEatingBanana",
+            "request": "launch",
+            "mainClass": "BinarySearch.kokoEatingBanana",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "lower_bound",
+            "request": "launch",
+            "mainClass": "BinarySearch.lower_bound",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "minimumDaysToMakeBoquote",
+            "request": "launch",
+            "mainClass": "BinarySearch.minimumDaysToMakeBoquote",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "minimumInSortedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.minimumInSortedArray",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "nthRootOfNumber",
+            "request": "launch",
+            "mainClass": "BinarySearch.nthRootOfNumber",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "numberOfTimesArrayRotated",
+            "request": "launch",
+            "mainClass": "BinarySearch.numberOfTimesArrayRotated",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "peakElement",
+            "request": "launch",
+            "mainClass": "BinarySearch.peakElement",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "searchInRotatedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.searchInRotatedArray",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "singleElementSortedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.singleElementSortedArray",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "smallestDivisor",
+            "request": "launch",
+            "mainClass": "BinarySearch.smallestDivisor",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "sqrtOfInteger",
+            "request": "launch",
+            "mainClass": "BinarySearch.sqrtOfInteger",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "upper_bound",
+            "request": "launch",
+            "mainClass": "BinarySearch.upper_bound",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "CountNumberClass",
+            "request": "launch",
+            "mainClass": "CountNumberClass",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "hashing_find_frequience",
+            "request": "launch",
+            "mainClass": "Hashing.hashing_find_frequience",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "max_min_frequency",
+            "request": "launch",
+            "mainClass": "Hashing.max_min_frequency",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "MedianClass",
+            "request": "launch",
+            "mainClass": "MedianClass",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "Merge_Sort",
+            "request": "launch",
+            "mainClass": "Merge_Sort",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "factorial_number",
+            "request": "launch",
+            "mainClass": "Recursion.factorial_number",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.fibonacci",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "isPalindrome",
+            "request": "launch",
+            "mainClass": "Recursion.isPalindrome",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "print_n_number",
+            "request": "launch",
+            "mainClass": "Recursion.print_n_number",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "reverse_array",
+            "request": "launch",
+            "mainClass": "Recursion.reverse_array",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicatesClass",
+            "request": "launch",
+            "mainClass": "RemoveDuplicatesClass",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "longestSubStringWithoutRepeatingChar",
+            "request": "launch",
+            "mainClass": "SlidingWindow.longestSubStringWithoutRepeatingChar",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "maxConsecutiveOnesKFlip",
+            "request": "launch",
+            "mainClass": "SlidingWindow.maxConsecutiveOnesKFlip",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "totalFruits",
+            "request": "launch",
+            "mainClass": "SlidingWindow.totalFruits",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "armstrong_number",
+            "request": "launch",
+            "mainClass": "armstrong_number",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "binary_search",
+            "request": "launch",
+            "mainClass": "binary_search",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "bubble_sort",
+            "request": "launch",
+            "mainClass": "bubble_sort",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "container_with_most_water",
+            "request": "launch",
+            "mainClass": "container_with_most_water",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "find_lcm_hcf",
+            "request": "launch",
+            "mainClass": "find_lcm_hcf",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "gives_vowels",
+            "request": "launch",
+            "mainClass": "gives_vowels",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "insertion_sort",
+            "request": "launch",
+            "mainClass": "insertion_sort",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "palinDrome",
+            "request": "launch",
+            "mainClass": "palinDrome",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "plus_one",
+            "request": "launch",
+            "mainClass": "plus_one",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "quick_sort",
+            "request": "launch",
+            "mainClass": "quick_sort",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "remove_element_array",
+            "request": "launch",
+            "mainClass": "remove_element_array",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "reverse_array(1)",
+            "request": "launch",
+            "mainClass": "reverse_array",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "reverse_number",
+            "request": "launch",
+            "mainClass": "reverse_number",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "selection_sort",
+            "request": "launch",
+            "mainClass": "selection_sort",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_all_divisors",
+            "request": "launch",
+            "mainClass": "sum_of_all_divisors",
+            "projectName": "av836225-java_dsa_striver_455_4ee60daf"
+        }
+    ]
+}

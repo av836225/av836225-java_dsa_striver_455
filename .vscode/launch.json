@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "minWindowSubsequence",
+            "request": "launch",
+            "mainClass": "SlidingWindow.minWindowSubsequence",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "minimumWindowSubstring",
+            "request": "launch",
+            "mainClass": "SlidingWindow.minimumWindowSubstring",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "subArrayKdifferentInteger",
+            "request": "launch",
+            "mainClass": "SlidingWindow.subArrayKdifferentInteger",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubstringKDistinct",
+            "request": "launch",
+            "mainClass": "SlidingWindow.LongestSubstringKDistinct",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
             "name": "countNumberOfOccurence",
             "request": "launch",
             "mainClass": "BinarySearch.countNumberOfOccurence",

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "countNumberOfOccurence",
+            "request": "launch",
+            "mainClass": "BinarySearch.countNumberOfOccurence",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "quick_sort",
+            "request": "launch",
+            "mainClass": "quick_sort",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
             "name": "longestUniqueSubstring",
             "request": "launch",
             "mainClass": "SlidingWindow.longestUniqueSubstring",

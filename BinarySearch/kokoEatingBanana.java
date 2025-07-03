@@ -3,7 +3,7 @@ package BinarySearch;
 public class kokoEatingBanana {
     public static void main(String[] args) {
         int[] piles = {805306368,805306368,805306368};
-        int h = 1000000000;
+        int h = 1000000000; // hours
 
         int result = minEatingSpeed(piles, h);
         System.out.println("Minimum eating speed: " + result);
@@ -23,7 +23,9 @@ public class kokoEatingBanana {
                 high = mid  -1;
 
             }else{
+                
                 low = mid + 1;
+                
             }
             
         }

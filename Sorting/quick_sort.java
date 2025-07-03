@@ -19,28 +19,29 @@ public class quick_sort {
     }
 
     public static int hoarePartition(int[] arr, int low, int high) {
-        int pivot = arr[low];
+
         int i = low - 1;
         int j = high + 1;
+        int pivot = arr[low];
 
-        while (true) {
-            do {
+        while(true){
+            do{
                 i++;
-            } while (arr[i] < pivot);
-
-            do {
+            }while(arr[i] < pivot);
+            do{
                 j--;
-            } while (arr[j] > pivot);
+            }while(arr[j] > pivot);
 
-            if (i >= j) {
+            if(i >= j){
                 return j;
             }
 
-            // Swap arr[i] and arr[j]
             int temp = arr[i];
             arr[i] = arr[j];
             arr[j] = temp;
+
         }
+
     }
 
 

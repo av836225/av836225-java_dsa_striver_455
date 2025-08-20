@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RunLengthEncoding",
+            "request": "launch",
+            "mainClass": "RunLengthEncoding",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "LongestConsecutiveLength",
+            "request": "launch",
+            "mainClass": "LongestConsecutiveLength",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "minimumDayToMakeBoquet",
+            "request": "launch",
+            "mainClass": "BinarySearch.minimumDayToMakeBoquet",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "reverse_pairs",
+            "request": "launch",
+            "mainClass": "Array.reverse_pairs",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
+            "name": "consecutive_ones",
+            "request": "launch",
+            "mainClass": "Array.consecutive_ones",
+            "projectName": "455_23cfdf6f"
+        },
+        {
+            "type": "java",
             "name": "minWindowSubsequence",
             "request": "launch",
             "mainClass": "SlidingWindow.minWindowSubsequence",

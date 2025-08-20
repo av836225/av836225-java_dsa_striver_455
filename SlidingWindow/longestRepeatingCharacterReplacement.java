@@ -2,7 +2,7 @@ package SlidingWindow;
 
 public class longestRepeatingCharacterReplacement {
     public static void main(String[] args) {
-        String s = "AABABBA";
+        String s = "AABBBBABBA";
         int k = 1;
         System.out.println(characterReplacement(s, k));
     }
@@ -25,6 +25,7 @@ public class longestRepeatingCharacterReplacement {
 
             result = Math.max(result, right - left + 1);
         }
+
         
 
         return result;
